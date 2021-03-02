@@ -1,5 +1,8 @@
 # Substrate Node Template
 
+[![Check Set-Up & Build](https://github.com/sambacha/substrate-node-template/actions/workflows/check.yml/badge.svg)](https://github.com/sambacha/substrate-node-template/actions/workflows/check.yml)
+
+
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
 ## Getting Started
